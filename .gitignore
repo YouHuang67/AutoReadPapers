@@ -126,6 +126,3 @@ data/
 
 # ignore jupyter notebook
 *.ipynb
-
-# ignore crawled data
-conf_crawler/*
